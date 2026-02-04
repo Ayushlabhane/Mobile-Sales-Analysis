@@ -1,9 +1,9 @@
-# 📱Mobile-Sales-Analysis
+## 📱Mobile-Sales-Analysis
 
 
-##📌 About
+###📌 About
 
-- The Mobile Sales Data Analysis project is an end-to-end data analytics case study designed to transform raw mobile sales data into meaningful business insights.
+The Mobile Sales Data Analysis project is an end-to-end data analytics case study designed to transform raw mobile sales data into meaningful business insights.
 The project follows a real-world analytics workflow involving data cleaning in Excel, structured analysis using SQL, and interactive dashboard creation in Power BI.
 
 The dataset includes historical mobile sales transactions with information related to brands, models, pricing, sales quantity, categories, and sales timelines.
