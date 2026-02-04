@@ -94,7 +94,7 @@ The Power BI dashboard provides a comprehensive view of mobile sales performance
 This project demonstrates practical experience in handling real-world sales data, applying SQL for analytical insights, and visualizing results using Power BI.
 It highlights the ability to work across the entire data lifecycle — from raw data preparation to insight communication.
 
-##🤝 Connect With Me
+## 🤝 Connect With Me
 
 👤 Ayush Rajesh Labhane
 Aspiring Data Analyst | SQL • Excel • Python • Power BI | Data Cleaning, Analysis & Visualization
