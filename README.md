@@ -10,6 +10,7 @@ The dataset includes historical mobile sales transactions with information relat
 By applying SQL queries and visual analytics, this project helps uncover sales trends, performance drivers, and customer purchasing patterns.
 
 ##🎯 Objectives
+
 The main objectives of this project are:
 - To clean and standardize raw mobile sales data for analysis
 - To analyze total revenue, total sales quantity, and average sales metrics
@@ -19,6 +20,7 @@ The main objectives of this project are:
 
 
 ##📊 Key KPIs
+
 - Total Revenue
 - Total Mobile Units Sold
 - Total Sales Transactions
@@ -27,6 +29,7 @@ The main objectives of this project are:
 
 
 ##🗂 Dataset Description
+
 The dataset consists of mobile sales records that were originally provided in raw Excel format and later structured for analysis.
 Main data elements include:
 - Mobile brand and model details
@@ -37,6 +40,7 @@ The cleaned dataset was split into two CSV files to enable structured SQL analys
 
 
 ##🛠 Tools & Technologies
+
 Excel – Data cleaning, sorting, and standardization
 CSV – Structured data storage
 SQL (MySQL / PostgreSQL) – Data analysis and insight extraction
@@ -45,6 +49,7 @@ GitHub – Version control and project documentation
 
 
 ##🔍 Business Questions Answered
+
 1. What is the total revenue generated from mobile sales?
 2. How many mobile units were sold overall?
 3. Which mobile brands generate the highest revenue?
@@ -58,6 +63,7 @@ GitHub – Version control and project documentation
 11. Which brands have the most consistent sales performance (not just highest revenue)?
 12. How does total spending vary across customer age groups?
 
+
 ##📈 Dashboard Preview
 
 The Power BI dashboard provides a comprehensive view of mobile sales performance, including:
@@ -69,12 +75,14 @@ The Power BI dashboard provides a comprehensive view of mobile sales performance
 (Add your dashboard screenshot here)
 
 ##📌 Key Insights
+
 - Certain mobile brands consistently contribute a major share of total revenue
 - Sales volumes show noticeable variation across different time periods
 - A small number of mobile models drive a significant portion of total sales
 - Average daily sales provide a baseline for performance tracking
 
 ##📂 Project Workflow
+
 - Raw Data Collection – Original mobile sales data in Excel format
 - Data Cleaning – Removed inconsistencies and standardized values
 - Data Transformation – Converted cleaned data into multiple CSV files
@@ -82,10 +90,12 @@ The Power BI dashboard provides a comprehensive view of mobile sales performance
 - Visualization – Built an interactive Power BI dashboard using SQL outputs
 
 ##✅ Conclusion
+
 This project demonstrates practical experience in handling real-world sales data, applying SQL for analytical insights, and visualizing results using Power BI.
 It highlights the ability to work across the entire data lifecycle — from raw data preparation to insight communication.
 
 ##🤝 Connect With Me
+
 👤 Ayush Rajesh Labhane
 Aspiring Data Analyst | SQL • Excel • Python • Power BI | Data Cleaning, Analysis & Visualization
 Linkedin : www.linkedin.com/in/ayush-labhane-6ab674259
