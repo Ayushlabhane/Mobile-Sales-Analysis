@@ -72,7 +72,7 @@ The Power BI dashboard provides a comprehensive view of mobile sales performance
 - Time-based sales insights
 - Interactive filters for deeper exploration
 
-(Add your dashboard screenshot here)
+<img width="827" height="467" alt="Image" src="https://github.com/user-attachments/assets/6bac24fc-0a54-4c5b-b414-2f15585acb81" />
 
 ##📌 Key Insights
 
