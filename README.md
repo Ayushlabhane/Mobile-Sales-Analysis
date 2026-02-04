@@ -98,4 +98,5 @@ It highlights the ability to work across the entire data lifecycle — from raw 
 
 👤 Ayush Rajesh Labhane
 Aspiring Data Analyst | SQL • Excel • Python • Power BI | Data Cleaning, Analysis & Visualization
+
 Linkedin : www.linkedin.com/in/ayush-labhane-6ab674259
