@@ -1,6 +1,5 @@
-# Mobile-Sales-Analysis
+# 📱Mobile-Sales-Analysis
 
-#📱 Mobile Sales Data Analysis
 
 ###📌 About
 
